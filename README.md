@@ -1,5 +1,5 @@
 #Student Registration System
-ASSIGMENT submitted by @username
+ASSIGMENT submitted by @Yuven Carlson
 
 ##Description
 A web- based student registration system.
